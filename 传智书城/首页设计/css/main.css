@@ -1,0 +1,55 @@
+.main {
+  margin: 0 0 30px 0;
+  padding: 0;
+  background: #FFFFFF;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  line-height: 150%;
+  color: #000000;
+  text-align: center;
+  vertical-align: top;
+}
+
+.headtable {
+  width: 100%;
+}
+
+#divmenu {
+  width: 100%;
+  border-top-width: 4px;
+  border-top-style: solid;
+  border-top-color: #82B211;
+  background-color: #1C3F09;
+  text-align: center;
+  padding: 10px 0 10px 0;
+  font-size: 14px;
+}
+
+#divmenu a {
+  font-size: 14px;
+  color: #FFFFFF;
+  font-weight: bold;
+  padding: 10px 10px 10px 10px;
+}
+
+#divmenu a:link {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#divcontent {
+  width: 100%;
+  padding: 10px 0 10px 0;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  font-size: 12px;
+  color: #0066FF;
+}
+
+a:link {
+  text-decoration: none;
+}
